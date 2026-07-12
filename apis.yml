@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://gita-api.vercel.app
 common:
+  - type: DomainSecurity
+    url: security/bhagavad-gita-telugu-domain-security.yml
   - type: Website
     url: https://gita-api.vercel.app
   - type: PublicAPIsListing
