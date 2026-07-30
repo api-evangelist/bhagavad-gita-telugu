@@ -1,4 +1,16 @@
 aid: bhagavad-gita-telugu
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/bhagavad-gita-telugu.png
 name: Bhagavad Gita telugu
 description: "Bhagavad Gita API in telugu and odia languages"
 url: https://gita-api.vercel.app
