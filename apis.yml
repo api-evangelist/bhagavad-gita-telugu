@@ -39,7 +39,6 @@ apis:
   - name: Bhagavad Gita telugu
     description: "Bhagavad Gita API in telugu and odia languages"
     humanURL: https://gita-api.vercel.app
-    baseURL: https://gita-api.vercel.app
     tags:
       - Books
     properties:
